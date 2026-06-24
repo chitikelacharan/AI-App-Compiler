@@ -1,0 +1,114 @@
+{
+  "real": {
+    "success_rate": 100.0,
+    "average_latency": 0.002525806427001953,
+    "results": [
+      {
+        "prompt": "Build a CRM with login, contacts, dashboard, role-based access, and premium plan with payments. Admins can see analytics.",
+        "status": "SUCCESS",
+        "latency_sec": 0.01
+      },
+      {
+        "prompt": "Create a task management app where users can create projects, add tasks, assign them to team members, and set deadlines.",
+        "status": "SUCCESS",
+        "latency_sec": 0.0
+      },
+      {
+        "prompt": "Design an e-commerce platform for selling digital courses. Users can browse courses, buy them, and watch videos. Instructors can upload content.",
+        "status": "SUCCESS",
+        "latency_sec": 0.0
+      },
+      {
+        "prompt": "Build a social network for pet owners. Users can create profiles for their pets, post photos, like posts, and send direct messages.",
+        "status": "SUCCESS",
+        "latency_sec": 0.0
+      },
+      {
+        "prompt": "Create an internal HR portal for employee onboarding. New hires can fill out forms, upload documents, and watch training videos. HR admins can track progress.",
+        "status": "SUCCESS",
+        "latency_sec": 0.0
+      },
+      {
+        "prompt": "Design a restaurant reservation system. Customers can see available tables, book a slot, and get email confirmations. Managers can see daily bookings.",
+        "status": "SUCCESS",
+        "latency_sec": 0.0
+      },
+      {
+        "prompt": "Build a personal finance tracker. Users can link bank accounts, categorize transactions, and view monthly spending charts.",
+        "status": "SUCCESS",
+        "latency_sec": 0.0
+      },
+      {
+        "prompt": "Create a real estate listing platform. Agents can post properties with images and prices. Buyers can search, filter by location, and contact agents.",
+        "status": "SUCCESS",
+        "latency_sec": 0.0
+      },
+      {
+        "prompt": "Design a fitness tracking app where users can log workouts, track calories, and join community challenges.",
+        "status": "SUCCESS",
+        "latency_sec": 0.0
+      },
+      {
+        "prompt": "Build a support ticketing system. Customers can submit issues. Support agents can reply, change status, and escalate tickets.",
+        "status": "SUCCESS",
+        "latency_sec": 0.0
+      }
+    ]
+  },
+  "edge": {
+    "success_rate": 100.0,
+    "average_latency": 0.0024145364761352537,
+    "results": [
+      {
+        "prompt": "Build an app.",
+        "status": "SUCCESS",
+        "latency_sec": 0.0
+      },
+      {
+        "prompt": "I want an app where users can buy things but there is no payment system and no user accounts.",
+        "status": "SUCCESS",
+        "latency_sec": 0.0
+      },
+      {
+        "prompt": "A dashboard with charts.",
+        "status": "SUCCESS",
+        "latency_sec": 0.01
+      },
+      {
+        "prompt": "An AI that does everything.",
+        "status": "SUCCESS",
+        "latency_sec": 0.0
+      },
+      {
+        "prompt": "Users can upload photos, but only if they are logged in, but there is no login page.",
+        "status": "SUCCESS",
+        "latency_sec": 0.0
+      },
+      {
+        "prompt": "A messaging app without a database.",
+        "status": "SUCCESS",
+        "latency_sec": 0.0
+      },
+      {
+        "prompt": "Make Facebook.",
+        "status": "SUCCESS",
+        "latency_sec": 0.0
+      },
+      {
+        "prompt": "An app for admins only. No users.",
+        "status": "SUCCESS",
+        "latency_sec": 0.0
+      },
+      {
+        "prompt": "Just give me the database tables for a school.",
+        "status": "SUCCESS",
+        "latency_sec": 0.0
+      },
+      {
+        "prompt": "An offline-only web app with real-time multiplayer features.",
+        "status": "SUCCESS",
+        "latency_sec": 0.0
+      }
+    ]
+  }
+}
